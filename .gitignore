@@ -1,0 +1,38 @@
+# Python cache / bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Environment variables
+*.env
+*.env.local
+.env.*
+
+# macOS & Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled / build output
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Database files (kalau pakai SQLite)
+*.db
+*.sqlite3
+
+# VSCode settings (optional)
+.vscode/
